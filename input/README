@@ -1,0 +1,4 @@
+Stick spires output .spi files here.
+
+Run extract_urls.py with this directory name, and the URL files will be created
+here also.

@@ -1,0 +1,9 @@
+spi-gather-urlstats.cmd is a SPIRES command file.  To use it, you must log 
+  into a SPIRES server on the command-line, and run SPIRES, by executing:
+  $ spires
+  Then run:
+  > use spi-gather-urlstats.cmd
+  > xeq
+  If you do this in a screen session, then you can capture the output from 
+  the batch execution and store it for later reference (e.g., 
+  output/spi-gather-urlstats.out)
