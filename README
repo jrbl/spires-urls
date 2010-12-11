@@ -1,3 +1,22 @@
+= Introduction =
+You don't care about this; it's very special-purpose.
+
+== I don't care at all? == 
+Well, maybe you do.  If you want to learn about the SPIRES database command 
+language, or how to extract http:// URLs from a pile of text files.  But you'd
+probably be better served reading StackOverflow.  
+
+== But really, what is it? ==
+This is a loose collection of stuff intended to answer some of the following
+questions:
+* What non-traditional material (ie, other than papers) are HEP scientists
+  publishing, and how has that changed over the last 20 years?
+* How much of this material is no longer available?
+* What is the rough rate of bitrot among physics materials?
+* Of materials whose sites still respond to HTTP GET, approximately what's
+  there?
+
+= Manifest =
 spi-gather-urlstats.cmd is a SPIRES command file.  To use it, you must log 
   into a SPIRES server on the command-line, and run SPIRES, by executing:
   $ spires
